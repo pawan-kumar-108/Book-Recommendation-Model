@@ -1,6 +1,7 @@
 Book Recommendation System
 
-ABSTRACT 
+ABSTRACT
+
 Recommender systems are now indispensable across diverse domains, including readership. This project explores various collaborative filtering techniques, focusing on Item-Based and User-Based methods. User-Based collaborative filtering uses correlation factors as similarity metrics. Clustering techniques like KNN, KMeans, DBSCAN, and agglomerative clustering were employed to build Item-Based recommender models. The study concludes with a comparative analysis of these models' performance across three dataset subsets.
 
 DATASET
